@@ -20,4 +20,5 @@ Getting help
   [link/FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)
   
 # Instructions step-by-step
-**Step 1.** Launch SolidWorks on your computer and create or select a part file you intend to make a drawing on or you can use the provided example.
+**Step 1.** Launch SolidWorks on your computer and create or select a part file you intend to make a drawing on or you can use the provided example.  
+![]() 
