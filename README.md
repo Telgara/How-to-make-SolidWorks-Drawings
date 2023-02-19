@@ -30,18 +30,21 @@ Getting help
 <p align="middle">
   <img src="https://github.com/Telgara/Images/blob/main/2.png" />
 </p>  
+
 **Step 3. Custom sheet size**  
 Choose the desired sheet size and orientation. In case the desired sheet size is not available, you can select the “Custom sheet size” option to create your own sheet with personalized parameters.  
 
 <p align="middle">
   <img src="https://github.com/Telgara/Images/blob/main/3.png" />
 </p>  
+
 **Step 4. Adding views**  
 Use the "View palette" tool on the right-hand of the screen to add the desired part views. There are many distinct view types available, including _front_, _back_, _top_ and _isometric_ views.
 
 <p align="middle">
   <img src="https://github.com/Telgara/Images/blob/main/4.png" />
 </p>  
+
 >In case you want to show your part file from other views, you can use _section_, _broken-out_ and _crop_ views. The instructions for such view types are provided below.  
 
 a) Select a “Section View” function in the “Drawing” tool to make a half section view of the part. Drag the section view to its place.  
@@ -72,6 +75,7 @@ To add all the dimensions of the drawing, select the “Model Items” option in
 <p align="middle">
   <img src="https://github.com/Telgara/Images/blob/main/11.png" />
 </p>  
+
 In order to add specific dimensions manually, click on the “Smart Dimensions” tool. You can select the type of dimension you want to add, such as linear or angular, and then click on the points you want to measure. For example, displaying the radius of the selected part.  
 
 <p float="left">
@@ -92,7 +96,7 @@ After properly positioning the view and arranging dimensions, your drawing is re
   <img src="https://github.com/Telgara/Images/blob/main/15.png" />
 </p>  
 
-**Step 7.** Once the technical drawing is finished, save the file and export it in the specified file format, such as a PDF or DXF file.
+**Step 7.** Once the technical drawing is finished, save the file and export it in the specified file format, such as a **PDF** or **DXF** file.
 
 
 
