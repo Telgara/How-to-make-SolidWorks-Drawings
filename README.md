@@ -80,8 +80,8 @@ To add all the dimensions of the drawing, select the “Model Items” option in
 
 In order to add specific dimensions manually, click on the “Smart Dimensions” tool. You can select the type of dimension you want to add, such as linear or angular, and then click on the points you want to measure. For example, displaying the radius of the selected part.  
 
-<p float="left">
-  <img src="https://github.com/Telgara/Images/blob/main/12.png" width="500" />
+<p align="middle">
+  <img src="https://github.com/Telgara/Images/blob/main/12.png" width="384" />
   <img src="https://github.com/Telgara/Images/blob/main/13.png" width="500" /> 
 </p>  
 
