@@ -20,7 +20,7 @@ Getting help
   [link/FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)
   
 # Instructions step-by-step
-**Step 1.** Launch SolidWorks on your computer and create or select a part file you intend to make a drawing on or you can use the provided example.  
+**Step 1.** Launch SolidWorks on your computer and create or select a part file you intend to make a drawing of.  
 <p align="middle">
   <img src="https://github.com/Telgara/Images/blob/main/1.png" />
 </p>  
@@ -45,7 +45,7 @@ Use the "View palette" tool on the right-hand of the screen to add the desired p
   <img src="https://github.com/Telgara/Images/blob/main/4.png" />
 </p>  
 
->In case you want to show your part file from other views, you can use _section_, _broken-out_ and _crop_ views. The instructions for such view types are provided below.  
+>In case you want to show your part file from other views, you can use _section_, _broken-out_ and _crop_ views. The instruction for such view types is provided below.  
 
 a) Select a “Section View” function in the “Drawing” tool to make a half section view of the part. Drag the section view to its place.  
 
