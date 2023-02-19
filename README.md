@@ -5,7 +5,8 @@ This instruction will:
 * Introduce main concepts of SolidWorks Drawings
 * Explain how to create Drawing part, choose custom sheet size
 * Demonstrate the single design component from different views (front, bottom, right, left, section and other views)
-* Add dimensions on the scheme
+* Add dimensions on the scheme  
+
 Prerequisites:
 * Make sure you have [SolidWorks](https://www.solidworks.com/support/community-download#no-back) installed with drawings creation ability. Version 2021 or higher is required
 * Have an understanding of using and creating SolidWorks part file
@@ -22,20 +23,21 @@ Getting help
 # Instructions step-by-step
 **Step 1.** Launch SolidWorks on your computer and create or select a part file you intend to make a drawing of.  
 <p align="middle">
-  <img src="https://github.com/Telgara/Images/blob/main/1.png" />
+  <img src="https://github.com/Telgara/Images/blob/main/1.png" width="65%"/>
 </p>  
 
-**Step 2.** After you have opened your part file, navigate to the “File” toolbar and select the “Make Drawing from Part” option.  
+**Step 2. Creating drawing file**   
+After you have opened your part file, navigate to the “File” toolbar and select the “Make Drawing from Part” option.  
 
 <p align="middle">
-  <img src="https://github.com/Telgara/Images/blob/main/2.png" />
+  <img src="https://github.com/Telgara/Images/blob/main/2.png" width="45%"/>
 </p>  
 
 **Step 3. Custom sheet size**  
 Choose the desired sheet size and orientation. In case the desired sheet size is not available, you can select the “Custom sheet size” option to create your own sheet with personalized parameters.  
 
 <p align="middle">
-  <img src="https://github.com/Telgara/Images/blob/main/3.png" />
+  <img src="https://github.com/Telgara/Images/blob/main/3.png" width="65%"/>
 </p>  
 
 **Step 4. Adding views**  
@@ -51,14 +53,14 @@ a) Select a “Section View” function in the “Drawing” tool to make a half
 
 <p float="left">
   <img src="https://github.com/Telgara/Images/blob/main/5.png" width="500" />
-  <img src="https://github.com/Telgara/Images/blob/main/6.png" width="500" /> 
+  <img src="https://github.com/Telgara/Images/blob/main/6.png" width="455" /> 
 </p>  
 
 b) Broken-out  
 Select a “Broken-out Section” option in the “Drawing” tool. Circle the required area of the view by putting dots on the drawing sheet and joining them as shown below. Specify the depth of the cut and click OK.  
 <p float="left">
   <img src="https://github.com/Telgara/Images/blob/main/7.png" width="500" />
-  <img src="https://github.com/Telgara/Images/blob/main/8.png" width="500" /> 
+  <img src="https://github.com/Telgara/Images/blob/main/8.png" width="480" /> 
 </p>  
 
 c) Crop view  
@@ -66,7 +68,7 @@ Sketch the area of the part that you want to preserve, the rest will be cut out.
 
 <p float="left">
   <img src="https://github.com/Telgara/Images/blob/main/9.png" width="500" />
-  <img src="https://github.com/Telgara/Images/blob/main/10.png" width="500" /> 
+  <img src="https://github.com/Telgara/Images/blob/main/10.png" width="500"/> 
 </p>  
 
 **Step 5. Adding Dimensions and Annotations to the Drawing**  
@@ -97,6 +99,11 @@ After properly positioning the view and arranging dimensions, your drawing is re
 </p>  
 
 **Step 7.** Once the technical drawing is finished, save the file and export it in the specified file format, such as a **PDF** or **DXF** file.
+
+# Troubleshooting tips  
+* **Verify the drawing sheet's settings:** Verify that the drawing sheet size is suitable for the drawing you are producing. In the Sheet Format tab in the File menu, you can modify the sheet size.
+* **Make sure the part or assembly is completely defined:** Verify that all parts and assemblies are fully defined. The drawing might not show the right information if a part or assembly is underdefined.
+* **Verify that your software is up to date:** Update your SolidWorks program to the most recent version. To accomplish this, choose "Help" > "Check for Updates" from the SolidWorks menu.
 
 
 
