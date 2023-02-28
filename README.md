@@ -1,5 +1,5 @@
 # INTRODUCTION
-The purpose of these instructions is to introduce the basic concepts of creating SolidWorks drawings. With a user-friendly interface, cutting-edge features, and seamless integration with other tools and applications, SolidWorks enables designers and engineers to bring their ideas to life with unparalleled accuracy and efficiency. Whether you're a seasoned professional or a student learning the ropes of CAD design, SolidWorks is an ideal choice for transforming your concepts into reality.
+The purpose of these instructions is to introduce the basic concepts of creating SolidWorks drawings. SolidWorks has all the needed features for creating a professional drawing, and for transforming your concepts into reality.
 # Getting started
 These instructions will:
 * Introduce the main concepts of SolidWorks Drawings
@@ -13,9 +13,11 @@ Prerequisites:
 * You can use this practice [example](https://drive.google.com/drive/folders/1s6IYy6kvwLmyibqGsZ2YoUXnnX7jKRGC?usp=sharing) of a part file which is used in this tutorial.
 
 Terminology:
-* Drawing document/sheet
-* Dimensions
-* Drawing views: standart orientations, section, projected, detailed, etc
+* Drawing document/sheet - document with 
+* Dimensions - linear or angular measurement of particular item;
+* Drawing views: standart orientations, section, projected, detailed, etc - views of representing the object from different views/angles;
+* Broken-out view - ;
+* Crop view - ;
 
 Frequently asked questions: [link/FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)
   
@@ -73,7 +75,7 @@ Sketch the area of the part that you want to preserve, the rest will be cut out.
 </p>  
 
 **Step 5. Adding Dimensions and Annotations to the Drawing**  
-To add all the dimensions of the drawing, select the “Model Items” option within the “Annotations” tool. Then, choose the parts and click OK. Solidworks will assign dimensions automatically.
+To add all the dimensions of the drawing, select the “Model Items” option within the “Annotations” tool. Then, choose the items, which you want to show dimension to, and click OK. Solidworks will assign dimensions automatically.
 
 <p align="middle">
   <img src="https://github.com/Telgara/Images/blob/main/11.png" />
