@@ -1,7 +1,7 @@
 # INTRODUCTION
-The purpose of these instructions is to introduce the basic concepts of creating SolidWorks drawings. SolidWorks has all the needed features for creating a professional drawing, and for transforming your concepts into reality.
+The purpose of this instruction is to introduce the basic concepts of creating SolidWorks drawings. SolidWorks has all the needed features for creating a professional drawing, and for transforming your concepts into reality.
 # Getting started
-These instructions will:
+This instruction will:
 * Introduce the main concepts of SolidWorks Drawings
 * Explain how to create a drawing and choose a custom sheet size
 * Demonstrate the single design component from different views
@@ -13,11 +13,11 @@ Prerequisites:
 * You can use this practice [example](https://drive.google.com/drive/folders/1s6IYy6kvwLmyibqGsZ2YoUXnnX7jKRGC?usp=sharing) of a part file which is used in this tutorial.
 
 Terminology:
-* Drawing document/sheet - document with 
+* Drawing document/sheet - document with annotated drawing on object;
 * Dimensions - linear or angular measurement of particular item;
 * Drawing views: standart orientations, section, projected, detailed, etc - views of representing the object from different views/angles;
-* Broken-out view - ;
-* Crop view - ;
+* Broken-out view - demonstration of object with cutted away part;
+* Crop view - view of object focused on particular region.
 
 Frequently asked questions: [link/FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)
   
@@ -59,7 +59,7 @@ Select a “Section View” function in the “Drawing” tool to make a half se
   <img src="https://github.com/Telgara/Images/blob/main/6.png" width="455" /> 
 </p>  
 
-b) Broken-out  
+b) Broken-out view
 Select the “Broken-out Section” option in the “Drawing” tool. Circle the required area of the view by putting dots on the drawing sheet and joining them as shown below. Specify the depth of the cut and click OK.  
 <p float="left">
   <img src="https://github.com/Telgara/Images/blob/main/7.png" width="500" />
@@ -67,7 +67,7 @@ Select the “Broken-out Section” option in the “Drawing” tool. Circle the
 </p>  
 
 c) Crop view  
-Sketch the area of the part that you want to preserve, the rest will be cut out. Then select the “Crop View” option within the “Drawing” tool.  
+Choose the area of the part that you want to preserve, the rest will be cut out. Then, select the “Crop View” option within the “Drawing” tool.  
 
 <p float="left">
   <img src="https://github.com/Telgara/Images/blob/main/9.png" width="500" />
@@ -88,7 +88,7 @@ In order to add specific dimensions manually, click on the “Smart Dimensions�
   <img src="https://github.com/Telgara/Images/blob/main/13.png" width="500" /> 
 </p>  
 
-**Step 6. Edit sheet format**    
+**Step 6. Editing sheet format**    
 Use the "Edit Sheet Format" tool to add notes and labels to the drawing.  
 
 <p align="middle">
