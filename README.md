@@ -52,7 +52,7 @@ Use the "View palette" tool on the right-hand side of the screen to add the desi
 
 >If you want to show your part file from other views, you can use _section_, _broken-out_ and _crop_ views. The instruction for such view types is provided below.  
 
-a) Section View
+a) Section View  
 Select a “Section View” function in the “Drawing” tool to make a half section view of the part. Drag the section view to the needed location.  
 
 <p float="left">
