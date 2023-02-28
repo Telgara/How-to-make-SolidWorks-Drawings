@@ -8,7 +8,7 @@ This instruction will:
 * Add dimensions to the scheme  
 
 Prerequisites:
-* Make sure you have [SolidWorks](https://www.solidworks.com/support/community-download#no-back) installed with the drawing creation ability. Version 2021 or higher is required
+* Make sure you have [SolidWorks](https://www.solidworks.com/support/community-download#no-back) installed with the drawing creation ability (мersion 2021 or higher is required)
 * Have an understanding of using and creating SolidWorks part file
 * You can use this practice [example](https://drive.google.com/drive/folders/1s6IYy6kvwLmyibqGsZ2YoUXnnX7jKRGC?usp=sharing) of a part file which is used in this tutorial.
 
@@ -16,10 +16,11 @@ Terminology:
 * Drawing document/sheet - document with annotated drawing on object;
 * Dimensions - linear or angular measurement of particular item;
 * Drawing views: standart orientations, section, projected, detailed, etc - views of representing the object from different views/angles;
+* Section view - divided on the sections object is demonstrated in details;
 * Broken-out view - demonstration of object with cutted away part;
 * Crop view - view of object focused on particular region.
 
-Frequently asked questions: [link/FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)
+Frequently asked questions: [FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)
   
 # Instructions step-by-step
 **Step 1. Getting started**    
@@ -110,7 +111,7 @@ Once the technical drawing is finished, save the file and export it in the speci
 * **Verify that your software is up to date:** Update your SolidWorks program to the most recent version. To accomplish this, choose "Help" > "Check for Updates" from the SolidWorks menu.    
 
 
-Frequently asked questions: [link/FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)    
+Frequently asked questions: [FAQ](https://www.solidworks.com/support/frequently-asked-questions?tid=All&page=2)    
 
 
 
